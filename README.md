@@ -27,9 +27,9 @@ I'm from Brazil (🇧🇷).
     - Quarkus
 
 ### Markup language
-    - Html
-    - Css
-    - Markdow
+- Html
+- Css
+- Markdow
 
 #### Tools
   - CI/CD
