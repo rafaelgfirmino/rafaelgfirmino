@@ -1,4 +1,4 @@
-### "Olá pessoas!" \o/ 👋
+### "Hello World!" \o/ 👋
 
 My name is Rafael, married, Miguel's father and lover of software development. 
 I'm from Brazil (🇧🇷). 
