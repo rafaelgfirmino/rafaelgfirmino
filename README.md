@@ -56,3 +56,5 @@ Would you like to find me?
 
 <!-- [![Youtube Badge](https://img.shields.io/badge/-Youtube-FF0000?style=flat-square&labelColor=FF0000&logo=youtube&logoColor=white&link=https://youtube.com/c/DevSoutinho)](https://youtube.com/c/DevSoutinho) -->
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafaelgfirmino)](https://www.linkedin.com/in/rafaelgfirmino)
+
+[![Rafael's github stats](https://github-readme-stats.vercel.app/api?username=rafaelgfirmino&theme=dark&show_icons=true&count_private=true)](https://github.com/rafaelgfirmino)
