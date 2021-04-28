@@ -1,6 +1,6 @@
 ### "Hello World!" \o/ 👋
 
-My name is Rafael. 
+My name is Rafael, welcome to my github. 
 
 I'm from Brazil (🇧🇷). 
 
