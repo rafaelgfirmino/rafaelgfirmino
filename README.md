@@ -1,10 +1,12 @@
 ### "Hello World!" \o/ 👋
 
-My name is Rafael, married, Miguel's father and lover of software development. 
+My name is Rafael. 
+
 I'm from Brazil (🇧🇷). 
 
+I'm :heart: Software Develop
 
-### I've been working as:
+### I've been working with:
 
  #### Languages/frameworks
  - Javascript
