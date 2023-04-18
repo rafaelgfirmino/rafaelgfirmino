@@ -1,6 +1,5 @@
 
 
-[![Visits Badge](https://badges.pufler.dev/visits/rafaelgfirmino/rafaelgfirmino)](https://badges.pufler.dev)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafaelgfirmino)](https://www.linkedin.com/in/rafaelgfirmino)
 [![CodePen Badge](https://img.shields.io/badge/CodePen-Profile-informational?style=flat&logo=codepen&logoColor=white&color=black)](https://codepen.io/rafaelgfirmino)
 
