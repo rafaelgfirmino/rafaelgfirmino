@@ -1,13 +1,9 @@
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafaelgfirmino)](https://www.linkedin.com/in/rafaelgfirmino)
-[![CodePen Badge](https://img.shields.io/badge/CodePen-Profile-informational?style=flat&logo=codepen&logoColor=white&color=black)](https://codepen.io/rafaelgfirmino)
+[![Linkedin Badge](https://img.shields.io/badge/-dev-to?style=flat-square&logo=dev.to&)](https://www.dev.to/rafaelgfirmino)
 
 ### "Hello World!" \o/ 👋
-
-My name is Rafael, welcome to my github. 
-
-
 
 ## &#x1f4c8; GitHub Stats
 
